@@ -10,7 +10,7 @@ class Entidad {
     private:
     int pos_x;
     int pos_y;
-    std::string habilidad;
+    string habilidad;
 
     public:
     Entidad();
